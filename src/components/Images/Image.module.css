@@ -1,0 +1,10 @@
+.sneakDiv {
+  width: 100%;
+
+  display: flex;
+}
+.sneakImage {
+  width: 450px;
+  height: 350px;
+  margin: auto;
+}

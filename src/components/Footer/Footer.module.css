@@ -1,0 +1,36 @@
+.mainDiv {
+}
+hr {
+  width: 440px;
+  margin-top: 30px;
+}
+.lorem {
+  margin-top: 50px;
+  width: 450px;
+  margin: auto;
+
+  font-size: 18px;
+}
+.buttonDiv {
+  width: 200px;
+  margin-left: 460px;
+  margin-top: 20px;
+}
+.basketButton {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  width: 200px;
+}
+.deleteBasket {
+  background-color: white;
+  text-decoration: underline;
+  border: none;
+  color: red;
+  font-weight: bold;
+}
+:disabled {
+  background-color: rgb(172, 172, 172);
+}

@@ -1,0 +1,48 @@
+.mainDiv {
+  position: relative;
+  width: 100%;
+}
+.div450px {
+  position: relative;
+  width: 450px;
+  display: flex;
+  margin: auto;
+}
+.nikeSneakerDiv {
+  width: 200px;
+  margin-left: 20px;
+  margin-top: 30px;
+  font-weight: bold;
+  font-size: 30px;
+}
+.buttonDiv {
+  position: absolute;
+  margin-top: 50px;
+
+  margin-left: 280px;
+  display: flex;
+}
+.detailsButton {
+  width: 150px;
+  height: 60px;
+  background-color: white;
+
+  color: blue;
+  border-radius: 5px;
+}
+.help {
+  position: absolute;
+  width: 240px;
+  height: 120px;
+  box-shadow: 0px 0px 10px 5px rgb(211, 197, 197);
+  margin-left: 400px;
+  margin-top: 10px;
+  background-color: white;
+}
+.buttoninHelp {
+  margin-left: 215px;
+  margin-top: 0px;
+}
+.lorem {
+  margin-left: 5px;
+}
